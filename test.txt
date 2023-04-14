@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 day la file test.txt
+=======
+
